@@ -1,0 +1,49 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Egusi Soup",
+      "cost": "NGN 1500",
+      "imgUrl": "../img/egusi.jpg",
+      "description": "Delicious Egusi Soup with stock fish and chicken"
+    },
+    {
+      "id": 2,
+      "name": "Boiled Plantain & efo riro",
+      "cost": "NGN 1000",
+      "description": "Boiled planain with efo riro and assorted meat",
+      "imgUrl": "../img/bplan.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jollof Rice and Fried Plantain with Chicken",
+      "cost": "NGN 1300",
+      "description": "Tasty Jollof Rice and Fried Plantain with Chicken",
+      "imgUrl": "../img/jollof.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Macaroni and Chicken",
+      "cost": "NGN 1500",
+      "description": "Delicious Macaroni with mixed vegetables and chicken or beef",
+      "imgUrl": "../img/egusi.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Amala and Ewedu",
+      "cost": "NGN 1200",
+      "description": "Healthy Amala and ewedu/gbegiri soup with assorted meat",
+      "imgUrl": "../img/amala.jpg"
+    },
+    {
+      "id": 6,
+      "name": "White Rice with Ofada-Stew",
+      "cost": "NGN 1400",
+      "description": "Delicious Egusi Soup with stock fish and chicken",
+      "imgUrl": "../img/ofada.jpg"
+    }
+  ],
+  "newOrders":[],
+  "orders": []
+    
+}
